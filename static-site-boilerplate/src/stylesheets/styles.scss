@@ -1,0 +1,20 @@
+// Load CSS Reset from NPM
+// @import "~normalize.css"
+svg path:hover {
+    fill: #D8D9DE !important;
+    cursor: pointer; 
+}
+.us_map {
+    height: 426;
+    width: 700;
+    overflow: hidden;
+    position: relative;
+    left: -0.222237px;
+    top: -0.590332px;
+}
+.state {
+    fill: #6E7889;
+    stroke: "#ffffff" ;
+    stroke-width: 1;
+    opacity: 100;
+}
